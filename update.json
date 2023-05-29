@@ -5,7 +5,7 @@
   "VersionCode": 1,
   "VersionName": "3.0.9",
   "ModifyContent": "1. 修复一些bug  \r\n2. 增加查看更新日志按钮  \r\n3. 更新选择时间样式  \r\n6. 更改状态栏样式，使其显示出来  ",
-  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk",
+  "DownloadUrl": "https://raw.githubusercontent.com/SanXiaoXing/Myapp2/main/app-release.apk",
   "ApkSize": 2048,
   "ApkMd5": "21:03:C6:0C:F2:23:A1:15:6D:6A:5B:65:28:B8:95:52"  //md5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
