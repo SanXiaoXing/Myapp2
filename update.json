@@ -2,7 +2,7 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "有新版本可以更新", //请求出错的信息
   "UpdateStatus": 1, //0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 1,
+  "VersionCode": 2,
   "VersionName": "3.0.9",
   "ModifyContent": "1. 修复一些bug  \r\n2. 增加查看更新日志按钮  \r\n3. 更新选择时间样式  \r\n6. 更改状态栏样式，使其显示出来  ",
   "DownloadUrl": "https://raw.githubusercontent.com/SanXiaoXing/Myapp2/main/app-release.apk",
