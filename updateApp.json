@@ -2,5 +2,5 @@
     "versionCode": 2,
     "versionName": "3.0.9",
     "description": "1. 修复了一些 BUG\n2. 增加了一些新功能",
-    "apkUrl": "http://your-app.com/download/app-1.1.0.apk"
+    "apkUrl": "https://raw.githubusercontent.com/SanXiaoXing/Myapp2/main/app-release.apk"
 }
